@@ -1,49 +1,43 @@
-# 20 C++ Programming Programs
+# 💻 20 C++ Programming Programs
 
-A collection of 20 beginner-friendly C++ programs demonstrating
-fundamental programming concepts.
+A collection of 20 beginner-friendly C++ programs designed to
+practice fundamental programming concepts.
 
-## Programs
+## 📚 Programs Included
 
-1. Hello World
-2. Addition of Two Numbers
-3. Subtraction of Two Numbers
-4. Multiplication of Two Numbers
-5. Division of Two Numbers
-6. Check Even or Odd
-7. Check Positive or Negative
-8. Find the Largest of Two Numbers
-9. Find the Largest of Three Numbers
-10. Swap Two Numbers
-11. Calculate Factorial
-12. Multiplication Table
-13. Fibonacci Series
-14. Prime Number Check
-15. Palindrome Number Check
-16. Reverse a Number
-17. Sum of Digits
-18. Armstrong Number Check
-19. Simple Calculator
-20. Sum of Array Elements
+| No. | Program | Concept |
+|---:|---|---|
+| 01 | Hello World | Basic Output |
+| 02 | Addition | Arithmetic |
+| 03 | Subtraction | Arithmetic |
+| 04 | Multiplication | Arithmetic |
+| 05 | Division | Arithmetic |
+| 06 | Even or Odd | Conditional Statements |
+| 07 | Positive or Negative | Conditional Statements |
+| 08 | Largest of Two Numbers | Comparisons |
+| 09 | Largest of Three Numbers | Conditional Statements |
+| 10 | Swap Two Numbers | Variables |
+| 11 | Factorial | Loops |
+| 12 | Multiplication Table | Loops |
+| 13 | Fibonacci Series | Sequences |
+| 14 | Prime Number Check | Loops |
+| 15 | Palindrome Number Check | Number Logic |
+| 16 | Reverse a Number | Loops |
+| 17 | Sum of Digits | Arithmetic |
+| 18 | Armstrong Number Check | Number Logic |
+| 19 | Simple Calculator | Switch Statements |
+| 20 | Sum of Array Elements | Arrays |
 
-## Requirements
+## 🛠️ Requirements
 
-- A C++ compiler such as Clang or GCC
-- C++17 support
+- A C++ compiler (Clang or GCC)
+- C++17-compatible compiler
+- Terminal or command-line interface
 
-## Compile and Run
+## ▶️ Compile and Run
 
-For example, to compile and run the addition program:
+Clone the repository:
 
 ```bash
-clang++ -std=c++17 02_addition.cpp -o addition
-./addition
-```
-
-Replace `02_addition.cpp` with another source filename to run a
-different program.
-
-## Purpose
-
-This repository is intended for learning and practicing fundamental
-C++ programming concepts.
+git clone https://github.com/imahalakshmi12/20-cpp-programs.git
+cd 20-cpp-programs
